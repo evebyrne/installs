@@ -1,5 +1,3 @@
-#installs
-
 Vim 
 ====
 sudo apt-get install vim
